@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - DynamicBlurView (3.0.1)
+  - ObjectMapper (3.4.2)
+  - PopupDialog (0.9.2):
+    - DynamicBlurView (~> 3.0.1)
+  - RxAtomic (4.4.2)
+  - RxCocoa (4.4.2):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - ObjectMapper
+  - PopupDialog
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - DynamicBlurView
+    - ObjectMapper
+    - PopupDialog
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  DynamicBlurView: b1df5415f9bd31897549e5d7077e5ec120a4d636
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  PopupDialog: f4bb461bf70ff422be0b56656566424ee9273080
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxCocoa: 477990dc3b4c3ff55fb0ac77e1cc06244e0aaec8
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+
+PODFILE CHECKSUM: cac441cd566282151fed557048ab667f07c0f607
+
+COCOAPODS: 1.5.2

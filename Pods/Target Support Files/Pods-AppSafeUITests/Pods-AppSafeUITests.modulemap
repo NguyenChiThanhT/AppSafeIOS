@@ -1,0 +1,6 @@
+framework module Pods_AppSafeUITests {
+  umbrella header "Pods-AppSafeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
